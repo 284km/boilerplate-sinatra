@@ -1,5 +1,5 @@
-boilerplate
-===========
+boilerplate-sinatra
+===================
 
 This is my application's boilerplate for something. It's ready to use:
 
